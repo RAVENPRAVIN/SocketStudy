@@ -88,7 +88,7 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 
 ### Output :
-![alt text](../../EXP1.png)
+![alt text](EXP1.png)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
